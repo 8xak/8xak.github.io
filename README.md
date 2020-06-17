@@ -4,5 +4,5 @@
 		<h1>Hi this is MOHIT BUTOLA here!!</h1> <br>
 		<a href="https://8xak.github.io/myproject/course1finalproject.html"><h2>MY COURSE 1 WEEK 2 PROJECT (ABOUT MY SELF)<h2> </a>
 		
-	<body>
+	</body>
 </html>
