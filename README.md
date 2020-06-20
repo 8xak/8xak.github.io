@@ -4,5 +4,7 @@
 <h2>MY PROJECTS</h2>
 <ul>
     <li><a href="https://8xak.github.io/myproject/course1finalproject.html"><h2>MY COURSE 1 WEEK 2 PROJECT (ABOUT MY SELF)</h2></a></li>
+    
 </ul>
+<hr>
 </html>
